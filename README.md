@@ -31,4 +31,8 @@ For an immediate simulation without the hassle of going over the previous instru
 
 ![Result Of Train Loss](screenshot/TrainLoss.jpg)
 
+<p align="center">Fig 1 Graph of Train Loss</p>
+
 ![Result Of Accuracy](screenshot/Accuracy.jpg)
+
+<p align="center">Fig 1 Graph of Accuracy</p>
