@@ -18,7 +18,7 @@ For an immediate simulation without the hassle of going over the previous instru
 
 ### How To Use
 
-1. Open the `Data_moisture.ipynb` file.
+1. Open the `Data_moisture.ipynb` file in `model/Data_moisture.ipynb`.
 2. Import all the required libraries.
 3. Build the model of `DenseNet121`, `InceptionV3`, and `VGG16`.
 4. Fuse the previous three model into one model and make sure when all this three is fused.
