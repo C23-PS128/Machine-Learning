@@ -6,9 +6,9 @@
 
 Transfer learning and model fusion is used in this work. There are 3 fusioned model :
 
+- DenseNet121
 - InceptionV3
 - VGG16
-- DenseNet121
 
 For an immediate simulation without the hassle of going over the previous instructions, refer to this link:
 
