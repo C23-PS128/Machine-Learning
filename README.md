@@ -33,6 +33,6 @@ For an immediate simulation without the hassle of going over the previous instru
 
 <p align="center">Fig 1 Graph of Train Loss</p>
 
-<p align="center"><img src="screenshot/Accuracy.png"/></p>
+<p align="center"><img src="screenshot/Accuracy.jpg"/></p>
 
 <p align="center">Fig 2 Graph of Accuracy</p>
